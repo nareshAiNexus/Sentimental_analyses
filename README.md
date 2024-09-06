@@ -7,6 +7,7 @@ Sentiment classification using popular ML algorithms (e.g., Naive Bayes, SVM, LS
 Evaluation metrics such as accuracy, precision, recall, and F1-score
 Visualization of sentiment trends over time using data visualization tools (e.g., Matplotlib, Seaborn)
 Technologies:
-Python, NumPy, Pandas
-TensorFlow/Keras (for model building)
-NLTK (for text preprocessing)
+
+1. Python, NumPy, Pandas
+2. TensorFlow/Keras (for model building)
+3. NLTK (for text preprocessing)
