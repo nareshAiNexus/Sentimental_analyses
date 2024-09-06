@@ -7,6 +7,7 @@ from sklearn.metrics import accuracy_score, classification_report
 from nltk.corpus import movie_reviews
 
 # step-1 setup - Install necessary libraries (if not installed)
+# use nltk to preocess text
 
 #Step 2: Data Preparation
 
